@@ -18,7 +18,5 @@ Developed a real-time MERN stack web app for buying, selling, and searching prop
 
 🔔 : **Real-Time Notifications** - Instant toast alerts for actions like login, listing updates, or errors.
 
-🗺️ : **Map Integration** *(optional)* - Visualize property locations with Google Maps.
-
 📱 : **Fully Responsive Design** - Optimized for desktops, tablets, and mobile devices.
 
