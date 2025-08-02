@@ -20,3 +20,23 @@ Developed a real-time MERN stack web app for buying, selling, and searching prop
 
 📱 : **Fully Responsive Design** - Optimized for desktops, tablets, and mobile devices.
 
+## 🛠️ Tech Stack
+
+### 💻 Frontend
+- ⚛️ **React.js** - Component-based UI
+- 💨 **Tailwind CSS** - Utility-first CSS framework
+- 📦 **React Router** - Client-side routing
+- 🔔 **React Toastify** - Notifications and alerts
+
+### 🌐 Backend
+- 🟢 **Node.js** - Runtime environment
+- 🚂 **Express.js** - Web framework for Node.js
+- 🔐 **JWT (jsonwebtoken)** - Authentication
+- 🗄️ **MongoDB Atlas** - Cloud database
+- 🧰 **Mongoose** - ODM for MongoDB
+
+### ☁️ Deployment & Tools
+- 🐙 **GitHub** - Version control
+- 🔁 **Postman** - API testing
+- 🌍 **Vercel / Netlify** - Frontend deployment
+- ☁️ **Render / Railway / Cyclic** - Backend deployment
